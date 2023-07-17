@@ -1,11 +1,3 @@
-Write a python script to perform CRUD operation on following table of "ESM.db" database.
-
-Employee ( eid, ename, dept, basic, branch). eid must be primary key.
-
-Department : Account, Inventory, IT, HR.
-
-Peform Following Operation.
-
 1. Create table
 
 2. Insert 5 Records directly, 5 records using tuple and 5 records using taking input from user
